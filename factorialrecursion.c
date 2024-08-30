@@ -2,7 +2,7 @@
 int factorial(int x);
 int main() {
     int x;
-    printf("Enter the number whose factoria is to be calculated :");
+    printf("Enter the number whose factorial is to be calculated :");
     scanf("%d",&x);
 
     int y = factorial(x);
